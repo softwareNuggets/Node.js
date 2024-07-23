@@ -1,0 +1,10 @@
+1) Must have npm installed
+
+2) Must have the 'pg' library installed    ('npm install pg')
+   -- the pg library ("node-postgres") is used to connect to PostgreSQL
+   -- and execute queries.
+ 
+
+3) You must have the user_name, host, database, password and port #
+	for your running version of PostgreSQL
+	
