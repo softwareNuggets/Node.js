@@ -1,5 +1,6 @@
 // software nuggets => https://www.youtube.com/c/softwareNuggets
-// source at github => 
+// source at github => https://github.com/softwareNuggets/Node.js/blob/main/csv2postgresql.js
+
 // Import necessary modules
 const fs          = require('fs'); // For file read stream
 const fsp         = require('fs').promises; // For promise-based file operations
