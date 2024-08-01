@@ -1,4 +1,5 @@
 // software nuggets => https://www.youtube.com/c/softwareNuggets
+// written by : scott johnson
 // source at github => https://github.com/softwareNuggets/Node.js/blob/main/csv2postgresql.js
 
 // Import necessary modules
